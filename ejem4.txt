@@ -1,0 +1,16 @@
+
+<body>
+<?php
+
+$a=5;
+$b=10;
+$c=$a+$b;
+$d=$a*$b;
+$e=$a-$b;
+$f=$a/$b;
+echo"<BR>"" la suma es:".$c."\n";
+echo"<BR>"" la multiplicacion es:".$d."\n";
+echo"<BR>"" la resta es:".$e."\n";
+echo"<BR>"" la division es:".$f."\n";
+?>
+
